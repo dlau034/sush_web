@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>About Us - Our Partners</title>
+	<title>Development</title>
 	<!-- HEADER -->
 	<?php include 'php/header.php';?>
 </head>
@@ -10,14 +10,17 @@
 	<?php include 'php/nav_header.php';?>	
 
 	<!-- ABOUT SUBMENU -->
-	<?php include 'php/about_submenu.php';?>		
+	<?php include 'php/solution_submenu.php';?>		
 
+	<!-- NAV BUFFER -->
 	<div class="nav_buffer"></div>
-	
+
 	<div class="container">
-		<h3 class="title_text partner_title">OUR PARTNERS</h3>	<div class="breakline"></div>				
+		<h3 class="title_text partner_title">DEVELOPMENT</h3>	
+		<div class="breakline"></div>				
 	</div>		
-		
+
+
 	<!-- LEFT MODULE UNIT -->
 	<?php include 'php/apps_left.php';?>				
 
@@ -25,10 +28,10 @@
 	<?php include 'php/apps_right.php';?>			
 
 	<!-- LEFT MODULE UNIT -->
-	<?php include 'php/apps_left.php';?>				
+	<?php include 'php/apps_left.php';?>					
 
 	<!-- FOOTER UNIT -->
 	<?php include 'php/footer.php';?>	
 
 </body>
-</html>
+</html>	

@@ -13,7 +13,7 @@
     <div class="item active">
       <img src="img/banner_350px.jpg" alt="banner_1">
       <div class="carousel-caption">
-        <a href="#"><h1>HomeHunter</h1></a>
+        <a href="#"><h1>HOME HUNTER</h1></a>
       	<h2>
       		Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
       	</h2>        
@@ -24,7 +24,7 @@
     <div class="item">
       <img src="img/banner_350px.jpg" alt="banner_1">
       <div class="carousel-caption">
-        <a href="#"><h1>HomeHunter</h1></a>        
+        <a href="#"><h1>HOME HUNTER</h1></a>
       	<h2>
       		Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
       	</h2>        

@@ -23,8 +23,8 @@
 					<div class="apps_page_item thumbnail">
 						<img src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>HomeHunter</h3>
-        					<h4>KiwiBank</h4>
+        					<h3>Home Hunter</h3>
+        					<h4>KIWIBANK</h4>
         				</div>
 					</div>
 					</a>
@@ -34,8 +34,8 @@
 					<div class="apps_page_item thumbnail">
 						<img src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>HomeHunter</h3>
-        					<h4>KiwiBank</h4>
+        					<h3>Home Hunter</h3>
+        					<h4>KIWIBANK</h4>
         				</div>
 					</div>
 					</a>
@@ -45,8 +45,8 @@
 					<div class="apps_page_item thumbnail">
 						<img src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>HomeHunter</h3>
-        					<h4>KiwiBank</h4>
+        					<h3>Home Hunter</h3>
+        					<h4>KIWIBANK</h4>
         				</div>
 					</div>
 					</a>
@@ -56,8 +56,8 @@
 					<div class="apps_page_item thumbnail">
 						<img src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>HomeHunter</h3>
-        					<h4>KiwiBank</h4>
+        					<h3>Home Hunter</h3>
+        					<h4>KIWIBANK</h4>
         				</div>
 					</div>
 					</a>
@@ -71,8 +71,8 @@
 					<div class="apps_page_item thumbnail">
 						<img src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>HomeHunter</h3>
-        					<h4>KiwiBank</h4>
+        					<h3>Home Hunter</h3>
+        					<h4>KIWIBANK</h4>
         				</div>
 					</div>
 					</a>
@@ -82,8 +82,8 @@
 					<div class="apps_page_item thumbnail">
 						<img src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>HomeHunter</h3>
-        					<h4>KiwiBank</h4>
+        					<h3>Home Hunter</h3>
+        					<h4>KIWIBANK</h4>
         				</div>
 					</div>
 					</a>
@@ -93,8 +93,8 @@
 					<div class="apps_page_item thumbnail">
 						<img src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>HomeHunter</h3>
-        					<h4>KiwiBank</h4>
+        					<h3>Home Hunter</h3>
+        					<h4>KIWIBANK</h4>
         				</div>
 					</div>
 					</a>
@@ -104,8 +104,8 @@
 					<div class="apps_page_item thumbnail">
 						<img src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>HomeHunter</h3>
-        					<h4>KiwiBank</h4>
+        					<h3>Home Hunter</h3>
+        					<h4>KIWIBANK</h4>
         				</div>
 					</div>
 					</a>

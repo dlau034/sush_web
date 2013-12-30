@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>About Us - Our Partners</title>
+	<title>About Us</title>
 	<!-- HEADER -->
 	<?php include 'php/header.php';?>
 </head>
@@ -12,10 +12,15 @@
 	<!-- ABOUT SUBMENU -->
 	<?php include 'php/about_submenu.php';?>		
 
+	<!-- NAV BUFFER -->
 	<div class="nav_buffer"></div>
 	
+	<!-- SINGLE BANNER -->
+	<?php include 'php/single_banner.php';?>		
+
 	<div class="container">
-		<h3 class="title_text partner_title">OUR PARTNERS</h3>	<div class="breakline"></div>				
+		<h3 class="title_text partner_title">ABOUT SUSHMOBILE</h3>	
+		<div class="breakline"></div>				
 	</div>		
 		
 	<!-- LEFT MODULE UNIT -->
@@ -29,6 +34,6 @@
 
 	<!-- FOOTER UNIT -->
 	<?php include 'php/footer.php';?>	
-
+	
 </body>
 </html>

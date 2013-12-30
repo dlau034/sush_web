@@ -6,6 +6,7 @@
 </head>
 
 <body>
+	<div class="home"></div>
 	<!-- NAVIGATION HEADER -->
 	<?php include 'php/nav_header.php';?>
 	
@@ -137,42 +138,42 @@
 		  <div class="carousel-inner">
 		    <div class="item active">	      
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>	      
 		    </div>	    
 			<div class="item">	      
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>
 		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="img/logo.png" alt="">
+		    		<img src="http://placehold.it/120x120" alt="">
 		    	</div>	      
 		    </div>	    	    
 		  </div>
@@ -194,8 +195,18 @@
 	<!-- FULL IMAGE UNIT -->
 	<!-- ####################### -->	
 
-	<div class="image_crop">
-		<img src="img/sush_image.jpg" class="full_image" alt="">	
+	<div class="image_crop">		
+		<!-- <img src="img/sush_image.jpg" class="full_image" alt="">	 -->
+		<div class="container">
+		<h1>
+			<i class="fa fa-quote-left"></i> 
+			Our philosophy is simple <br>
+			your success is our success
+			<i class="fa fa-quote-right"></i>
+		</h1>	
+		</div>
+		
+
 	</div>		
 
 	<!-- PARTNERS UNIT -->
@@ -240,24 +251,19 @@
 		<div class="container">			
 			<h3 class="title_text">FEATURED ON</h3>
 			<div class="row featured_wrapper">
-			  	<img src="img/logo.png" alt="" class="col-md-2" >
-			  	<img src="img/logo.png" alt="" class="col-md-2" >
-			  	<img src="img/logo.png" alt="" class="col-md-2" >
-			  	<img src="img/logo.png" alt="" class="col-md-2" >
-			  	<img src="img/logo.png" alt="" class="col-md-2" >
-			  	<img src="img/logo.png" alt="" class="col-md-2" >			  	
+			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
+			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
+			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
+			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
+			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
+			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >			  	
 			 </div>
 		</div>
 	</div>	
 
 	<!-- FOOTER UNIT -->
+	<!-- ####################### -->			
 	<?php include 'php/footer.php';?>
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.js"></script>	
-    <script src="js/application.js"></script>	
 
 </body>
 </html>
