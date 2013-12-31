@@ -7,8 +7,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 address_wrapper">
-					<h3>GET IN TOUCH</h3>	
-					<h3>0800-123-APPS</h3>	
+					
+					<h3><span class="icon_send glyphicon glyphicon-earphone"></span> &nbsp 0800-123-APPS</h3>
+					
 
 					<div class="location_box">
 						<iframe width="280" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.nz/maps?t=m&amp;q=157+Lambton+Quay,+Wellington&amp;ie=UTF8&amp;hq=&amp;hnear=157+Lambton+Quay,+Wellington,+6011&amp;ll=-41.282386,174.776516&amp;spn=0.01935,0.025749&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>					
@@ -35,8 +36,8 @@
 
 				</div>
 				<div class="col-md-6 form_wrapper">				
-					<form role="form">
-						<h3>EMAIL US</h3>	
+					<form role="form">						
+						<h3><span class="icon_send glyphicon glyphicon-send"></span> &nbsp EMAIL US</h3>	
 					  <div class="form-group">				  
 					    <input type="text" class="form-control custom_input" id="" placeholder="Your Name">
 					  </div>

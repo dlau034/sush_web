@@ -13,46 +13,8 @@
 	<!-- HERO UNIT -->
 	<?php include 'php/hero_unit.php';?>	
 
-	<!-- PLATFORM UNIT -->
-	<!-- ####################### -->
-
-	<div class="platform_bg">
-		<div class="container">
-			<h3 class="title_text">PLATFORMS WE WORK WITH</h3>
-			<div class="platform_wrapper row">
-			  <div class="col-md-2 col-sm-2 platform_unit">
-			  	<img src="http://placehold.it/100x100" class="img-circle">
-			  	<h3>PLATFORM 1</h3>
-			  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing </p>
-			  </div>
-			  <div class="col-md-2 col-sm-2 platform_unit">
-			  	<img src="http://placehold.it/100x100" class="img-circle">
-			  	<h3>PLATFORM 2</h3>
-			  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing </p>
-			  </div>
-			  <div class="col-md-2 col-sm-2 platform_unit">
-			  	<img src="http://placehold.it/100x100" class="img-circle">
-			  	<h3>PLATFORM 3</h3>
-			  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing </p>
-			  </div>
-			  <div class="col-md-2 col-sm-2 platform_unit">
-			  	<img src="http://placehold.it/100x100" class="img-circle">
-			  	<h3>PLATFORM 4</h3>
-			  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing </p>
-			  </div>
-			  <div class="col-md-2 col-sm-2 platform_unit">
-			  	<img src="http://placehold.it/100x100" class="img-circle">
-			  	<h3>PLATFORM 5</h3>
-			  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing </p>
-			  </div>
-			  <div class="col-md-2 col-sm-2 platform_unit">
-			  	<img src="http://placehold.it/100x100" class="img-circle">
-			  	<h3>PLATFORM 6</h3>
-			  	<p>Lorem ipsum dolor sit amet, consectetur adipisicing </p>
-			  </div>
-			</div>
-		</div>
-	</div>
+	<!-- HOME PLATFORMS UNIT -->
+	<?php include 'php/home_platforms.php';?>		
 
 	<!-- OUR APPS SLIDER UNIT -->
 	<!-- ####################### -->	
@@ -61,33 +23,33 @@
 		<div class="container">
 			<h3 class="title_text">OUR APPS</h3>
 				<div class="row apps_wrapper">
-					<div class="col-md-3 col-sm-3 apps_item">
+					<div class="col-sm-3 col-xs-6 apps_item">
 						<div>
-							<img src="http://placehold.it/300x300" alt="">							
+							<img class="img-thumbnail" src="http://placehold.it/300x300" alt="">							
 						</div>						
-						<h4>Unitec Mobile App</h4>
-						<h5>UNITEC</h5>
+						<h3>Unitec Mobile App</h3>
+						<h4>UNITEC</h4>
 					</div>
-					<div class="col-md-3 col-sm-3 apps_item">
+					<div class="col-sm-3 col-xs-6 apps_item">
 						<div>
-							<img src="http://placehold.it/300x300" alt="">							
+							<img class="img-thumbnail" src="http://placehold.it/300x300" alt="">							
 						</div>						
-						<h4>Unitec Mobile App</h4>
-						<h5>UNITEC</h5>
+						<h3>Unitec Mobile App</h3>
+						<h4>UNITEC</h4>
 					</div>
-					<div class="col-md-3 col-sm-3 apps_item">
+					<div class="col-sm-3 col-xs-6 apps_item">
 						<div>
-							<img src="http://placehold.it/300x300" alt="">							
+							<img class="img-thumbnail" src="http://placehold.it/300x300" alt="">							
 						</div>						
-						<h4>Unitec Mobile App</h4>
-						<h5>UNITEC</h5>
+						<h3>Unitec Mobile App</h3>
+						<h4>UNITEC</h4>
 					</div>
-					<div class="col-md-3 col-sm-3 apps_item">
+					<div class="col-sm-3 col-xs-6 apps_item">
 						<div>
-							<img src="http://placehold.it/300x300" alt="">							
+							<img class="img-thumbnail" src="http://placehold.it/300x300" alt="">							
 						</div>						
-						<h4>Unitec Mobile App</h4>
-						<h5>UNITEC</h5>
+						<h3>Unitec Mobile App</h3>
+						<h4>UNITEC</h4>
 					</div>
 				</div>
 		</div>
@@ -100,25 +62,28 @@
 		<div class="container">
 			<h3 class="title_text">BLOGS</h3>
 			<div class="row blog_wrapper">
-				<div class="col-md-4 blog_item">									
-					<img src="img/app.jpg" alt="">	
-					<a href="#"><h4>BLOG ARTICLE</h4></a>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, est ipsum consequuntur unde eaque quas quasi magnam architecto qui reiciendis neque quis. Hic quisquam assumenda officia repellat eveniet sed ullam.
-					</p>					
+				<div class="col-md-4 col-sm-6 blog_item">									<div class="blog_box img-thumbnail">
+						<img src="http://placehold.it/300x170" alt="">	
+						<a href="#"><h3>BLOG ARTICLE</h3></a>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, est ipsum consequuntur unde eaque quas quasi magnam architecto qui reiciendis neque quis. Hic quisquam assumenda officia repellat eveniet sed ullam.
+						</p>				
+					</div>	
 				</div>
 
-				<div class="col-md-4 blog_item">					
-					<img src="img/app.jpg" alt="">	
-					<a href="#"><h4>BLOG ARTICLE</h4></a>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, est ipsum consequuntur unde eaque quas quasi magnam architecto qui reiciendis neque quis. Hic quisquam assumenda officia repellat eveniet sed ullam.
-					</p>					
-				</div>	
+				<div class="col-md-4 col-sm-6 blog_item">									<div class="blog_box img-thumbnail">
+						<img src="http://placehold.it/300x170" alt="">	
+						<a href="#"><h3>BLOG ARTICLE</h3></a>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, est ipsum consequuntur unde eaque quas quasi magnam architecto qui reiciendis neque quis. Hic quisquam assumenda officia repellat eveniet sed ullam.
+						</p>				
+					</div>	
+				</div>
 
-				<div class="col-md-4 blog_item">					
-					<img src="img/app.jpg" alt="">	
-					<a href="#"><h4>BLOG ARTICLE</h4></a>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, est ipsum consequuntur unde eaque quas quasi magnam architecto qui reiciendis neque quis. Hic quisquam assumenda officia repellat eveniet sed ullam.
-					</p>					
+				<div class="col-md-4 col-sm-6 blog_item">									<div class="blog_box img-thumbnail">
+						<img src="http://placehold.it/300x170" alt="">	
+						<a href="#"><h3>BLOG ARTICLE</h3></a>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, est ipsum consequuntur unde eaque quas quasi magnam architecto qui reiciendis neque quis. Hic quisquam assumenda officia repellat eveniet sed ullam.
+						</p>				
+					</div>	
 				</div>
 
 			</div>
@@ -137,43 +102,43 @@
 
 		  <div class="carousel-inner">
 		    <div class="item active">	      
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>	      
 		    </div>	    
 			<div class="item">	      
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>
-		    	<div class="col-xs-2 col-md-2 client_box">
-		    		<img src="http://placehold.it/120x120" alt="">
+		    	<div class="col-xs-6 col-sm-4 col-md-2 client_box">
+		    		<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
 		    	</div>	      
 		    </div>	    	    
 		  </div>
@@ -216,20 +181,20 @@
 		<div class="container">			
 			<h3 class="title_text">OUR PARTNERS</h3>			
 				<div class="row partners_wrapper">
-					<div class="col-md-4 partners_unit">
-						<img src="http://placehold.it/120x120" alt="">
-						<h4>GEN-I</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, necessitatibus, quae modi consequuntur beatae repudiandae rem harum cumque deserunt </p>
+					<div class="col-sm-4 col-xs-12 partners_unit">
+						<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
+						<h3>GEN-I</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, necessitatibus, quae modi consequuntur  </p>
 					</div>
-					<div class="col-md-4 partners_unit">
-						<img src="http://placehold.it/120x120" alt="">
-						<h4>GEN-I</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, necessitatibus, quae modi consequuntur beatae repudiandae rem harum cumque deserunt </p>
+					<div class="col-sm-4 col-xs-12 partners_unit">
+						<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
+						<h3>KONY</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, necessitatibus, quae modi consequuntur   </p>
 					</div>
-					<div class="col-md-4 partners_unit">
-						<img src="http://placehold.it/120x120" alt="">
-						<h4>GEN-I</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, necessitatibus, quae modi consequuntur beatae repudiandae rem harum cumque deserunt </p>
+					<div class="col-sm-4 col-xs-12 partners_unit">
+						<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
+						<h3>SAP</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, necessitatibus, quae modi consequuntur  </p>
 					</div>
 				</div>			
 		</div>		
@@ -251,12 +216,25 @@
 		<div class="container">			
 			<h3 class="title_text">FEATURED ON</h3>
 			<div class="row featured_wrapper">
-			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
-			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
-			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
-			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
-			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >
-			  	<img src="http://placehold.it/100x100" alt="" class="col-md-2" >			  	
+				<div class="featured_box col-sm-2 col-xs-6">
+					<img src="http://placehold.it/120x120" >	
+				</div>			  	
+				<div class="featured_box col-sm-2 col-xs-6">
+					<img src="http://placehold.it/120x120" >	
+				</div>		
+				<div class="featured_box col-sm-2 col-xs-6">
+					<img src="http://placehold.it/120x120" >	
+				</div>			  	
+				<div class="featured_box col-sm-2 col-xs-6">
+					<img src="http://placehold.it/120x120" >	
+				</div>						
+				<div class="featured_box col-sm-2 col-xs-6">
+					<img src="http://placehold.it/120x120" >	
+				</div>			  	
+				<div class="featured_box col-sm-2 col-xs-6">
+					<img src="http://placehold.it/120x120" >	
+				</div>		
+			  		  	
 			 </div>
 		</div>
 	</div>	
