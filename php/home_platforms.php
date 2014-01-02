@@ -4,7 +4,7 @@
 	<div class="platform_bg">
 		<div class="container">
 
-			<h3 class="title_text">PLATFORMS WE WORK WITH</h3>
+			<a href="apps.php"><h3 class="title_text">PLATFORMS WE WORK WITH</h3></a>
 			<div class="platform_wrapper row">
 			  <div class="col-xs-6 col-sm-2 platform_unit">
 			  	<img src="http://placehold.it/100x100" class="img-circle img-thumbnail">
@@ -18,7 +18,7 @@
 			  </div>
 			  <div class="col-xs-6 col-sm-2 platform_unit">
 			  	<img src="http://placehold.it/100x100" class="img-circle img-thumbnail">
-			  	<h3>Windows Mobile</h3>
+			  	<h3>Windows</h3>
 			  	
 			  </div>
 			  <div class="col-xs-6 col-sm-2 platform_unit">

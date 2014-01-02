@@ -9,6 +9,7 @@
 	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
+	<!-- <link rel="stylesheet" href="css/animate.css">	 -->
 	<link rel="stylesheet" href="css/styles.css">	
 	<!-- <link rel="stylesheet" href="css/global.css">	 -->
 	

@@ -1,4 +1,4 @@
-<html>
+v<html>
 <head>
 	<title>Sushmobile - Blog</title>
 	<!-- HEADER -->
@@ -56,8 +56,12 @@
 
 	</div>
 
+	<!-- FOOTER UNIT -->
+	<!-- ####################### -->			
+	<?php include 'php/footer.php';?>
+
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery.js"></script>
+    
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.js"></script>	
 </body>

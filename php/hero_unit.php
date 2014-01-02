@@ -10,30 +10,27 @@
   
   <div class="carousel-inner hero_banner">
   	
-    <div class="item active">
-      
-      <!-- <div class="carousel-caption"> -->
+    <div class="item active hero_item">      
         <div class="container">
-          <a href="#"><h1>HOME HUNTER</h1></a>
+          <a class="col-xs-12 col-sm-8 col-md-8" href="#"><h1>HOME HUNTER</h1>
           <h2>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
           </h2>
+          </a>
         </div>
-        <img src="img/banner_350px.jpg" alt="banner_1">
-        
-      <!-- </div> -->
+        <img src="img/banner_350px.jpg" alt="banner_1">      
     </div>
 
-	
-    <div class="item">
-      <img src="img/banner_350px.jpg" alt="banner_1">
-      <div class="carousel-caption">
-        <a href="#"><h1>HOME HUNTER</h1></a>
-      	<h2>
-      		Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-      	</h2>        
-      </div>
-    </div>    
+    <div class="item hero_item">      
+        <div class="container">
+          <a class="col-xs-12 col-sm-8 col-md-8" href="#"><h1>HOME HUNTER</h1>
+          <h2>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+          </h2>
+          </a>
+        </div>
+        <img src="img/banner_350px.jpg" alt="banner_1">      
+    </div>	
 
           
   </div>

@@ -13,6 +13,20 @@
 	<!-- HERO UNIT -->
 	<?php include 'php/hero_unit.php';?>	
 
+	<div class="headline_bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1">
+					<h1>We deliver beautiful mobile and digital experiences that transform the way businesses engage with their customers on mobile, tablet and desktop.</h1>
+				</div>
+				<!-- <div class="col-sm-2"> -->
+					<!-- <button class="col-sm-2 btn btn-lg btn-success">CALL TO ACTION</button> -->
+				<!-- </div> -->
+			</div>
+			
+		</div>	
+	</div>
+
 	<!-- HOME PLATFORMS UNIT -->
 	<?php include 'php/home_platforms.php';?>		
 
@@ -21,7 +35,8 @@
 
 	<div class="apps_bg">
 		<div class="container">
-			<h3 class="title_text">OUR APPS</h3>
+			<a href="apps.php"><h3 class="title_text">OUR APPS</h3></a>
+			
 				<div class="row apps_wrapper">
 					<div class="col-sm-3 col-xs-6 apps_item">
 						<div>
@@ -60,7 +75,10 @@
 
 	<div class="blog_bg">
 		<div class="container">
-			<h3 class="title_text">BLOGS</h3>
+			<a href="blog.php">
+				<h3 class="title_text">BLOGS</h3>	
+			</a>
+			
 			<div class="row blog_wrapper">
 				<div class="col-md-4 col-sm-6 blog_item">									<div class="blog_box img-thumbnail">
 						<img src="http://placehold.it/300x170" alt="">	
@@ -95,7 +113,9 @@
 
 <div class="client_bg"> 
 	<div class="container">
-		<h3 class="title_text">WHO WE WORK WITH</h3>
+		<a href="solutions.php">
+			<h3 class="title_text">WHO WE WORK WITH</h3>	
+		</a>		
 		<div id="carousel-client" class="carousel slide" data-ride="carousel">
 
 		  <!-- Wrapper for slides -->
@@ -179,7 +199,9 @@
 
 	<div class="partners_bg">
 		<div class="container">			
-			<h3 class="title_text">OUR PARTNERS</h3>			
+			<a href="partners.php">
+				<h3 class="title_text">OUR PARTNERS</h3>			
+			</a>
 				<div class="row partners_wrapper">
 					<div class="col-sm-4 col-xs-12 partners_unit">
 						<img class="img-thumbnail" src="http://placehold.it/120x120" alt="">
