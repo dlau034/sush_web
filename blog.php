@@ -11,16 +11,11 @@ v<html>
 
 	<div class="nav_buffer"></div>	
 
-<!-- 	<div class="container">
-		<h3 class="title_text">OUR BLOG</h3>	
-		<div class="breakline"></div>				
-	</div>			 -->
-
 	<div class="blog_list_bg">
 
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-8">
+				<div class="col-sm-9">
 				
 					<!-- BLOG SINGLE ITEM -->
 					<?php include 'php/blog_sample_item.php';?>	

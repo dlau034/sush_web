@@ -12,52 +12,52 @@
 				<span>Android Tablet</span>
 				<span>Windows Mobile</span>
 				<span>Blackberry</span>
-				<span>Responsive Web</span>
+				<span>Responsive Web</span>  
 			</h5>
 			<div class="breakline"></div>
 
 			<!-- ROW  -->
 			<div class="row">
-				<div class="col-md-3 col-sm-6 col-xs-12">
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<a href="apps_single.php">
 					<div class="apps_page_item thumbnail">
-						<img src="http://placehold.it/300x300">
+						<img class="img-responsive" src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>Home Hunter</h3>
-        					<h4>KIWIBANK</h4>
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
         				</div>
 					</div>
 					</a>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12">
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
-						<img src="http://placehold.it/300x300">
+						<img class="img-responsive" src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>Home Hunter</h3>
-        					<h4>KIWIBANK</h4>
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
         				</div>
 					</div>
 					</a>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12">
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
-						<img src="http://placehold.it/300x300">
+						<img class="img-responsive" src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>Home Hunter</h3>
-        					<h4>KIWIBANK</h4>
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
         				</div>
 					</div>
 					</a>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12">
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
-						<img src="http://placehold.it/300x300">
+						<img class="img-responsive" src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>Home Hunter</h3>
-        					<h4>KIWIBANK</h4>
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
         				</div>
 					</div>
 					</a>
@@ -66,46 +66,46 @@
 
 			<!-- ROW  -->
 			<div class="row">
-				<div class="col-md-3 col-sm-6 col-xs-12">
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
-						<img src="http://placehold.it/300x300">
+						<img class="img-responsive" src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>Home Hunter</h3>
-        					<h4>KIWIBANK</h4>
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
         				</div>
 					</div>
 					</a>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12">
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
-						<img src="http://placehold.it/300x300">
+						<img class="img-responsive" src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>Home Hunter</h3>
-        					<h4>KIWIBANK</h4>
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
         				</div>
 					</div>
 					</a>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12">
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
-						<img src="http://placehold.it/300x300">
+						<img class="img-responsive" src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>Home Hunter</h3>
-        					<h4>KIWIBANK</h4>
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
         				</div>
 					</div>
 					</a>
 				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12">
+				<div class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
-						<img src="http://placehold.it/300x300">
+						<img class="img-responsive" src="http://placehold.it/300x300">
 						      <div class="caption">
-        					<h3>Home Hunter</h3>
-        					<h4>KIWIBANK</h4>
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
         				</div>
 					</div>
 					</a>

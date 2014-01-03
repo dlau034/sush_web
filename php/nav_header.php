@@ -23,7 +23,11 @@
 	    	<li><a class="nav_text" href="clients.php">CLIENTS</a></li>
 	      	<li><a class="nav_text" href="blog.php">BLOG</a></li>
 	      	<li><a class="nav_text" href="about_us.php">ABOUT US</a></li>
-	      	<li class="btn-send hidden-xs"><a class="nav_text" href="#footer"><span class="icon_send glyphicon glyphicon-send"></span></a></li>
+	      	<li class="btn-send hidden-xs">
+	      		<a class="nav_text" href="#footer">
+	      			<span class="icon_send glyphicon glyphicon-send"></span>
+	      		</a>
+	      	</li>
 	    </ul>
 	  </div><!-- /.navbar-collapse -->
 
