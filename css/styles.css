@@ -186,8 +186,9 @@ a:hover {
 	position: absolute;
 	top:0;	
 	width: 100%;
-	z-index: -1;
+	z-index: 1;
 	right: 0;
+	display: block;
 }
 .hero_banner h1 {
 	float: left;
@@ -243,7 +244,6 @@ a:hover {
 
 @media (max-width: 1360px) {
 	.hero_banner .item img {
-		/*border: 1px solid black;*/
 		width: 1360px;
 		max-width: none!important;
 	}
@@ -725,13 +725,39 @@ a:hover {
 	display: inline-block;
 }
 .gallery_box {
-	/*background-color: red;*/
-	height: 360px;
-	
+	height: 360px;	
 	width: 100%;
 	white-space: nowrap;	
 	overflow-y: hidden;
 	overflow-x: auto;
+}
+.apps_screen_wrapper {
+
+}
+.apps_screen_item .modal-body {
+	padding: 0;
+}
+.apps_screen_item .modal-header {
+	border-bottom: none;
+}
+.apps_screen_item .modal-footer {
+	padding: 0;
+}
+.apps_screen_item .modal_content {
+	border-radius: 0;
+}
+.apps_screen_item .modal_header .close {
+	margin-top: -8px;
+
+} 
+.apps_screen_item .close {
+	font-size: 45px;
+}
+.apps_screen_item .modal_dialog {
+	background-color: red;
+}
+.apps_screen_item .modal_dialog {
+	width: auto!important;
 }
 
 /* APPS FEATURED LIST UNIT */ 

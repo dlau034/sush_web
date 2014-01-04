@@ -2,28 +2,28 @@
 	<div class="container">	
 		<!-- <div id="links"> -->
 		<div class="gallery_box">
-		    <a class="app_screenshots" href="http://placehold.it/320x480" data-gallery>
+		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
 		        <img src="http://placehold.it/240x360">
 		    </a>
-		    <a class="app_screenshots" href="http://placehold.it/200x480" data-gallery>
+		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
 		        <img src="http://placehold.it/240x360">
 		    </a>
-		    <a class="app_screenshots" href="http://placehold.it/320x480" data-gallery>
+		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
 		        <img src="http://placehold.it/240x360">
 		    </a>
-		    <a class="app_screenshots" href="http://placehold.it/320x480" data-gallery>
+		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
 		        <img src="http://placehold.it/240x360">
 		    </a>
-		    <a class="app_screenshots" href="http://placehold.it/320x480" data-gallery>
+		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
 		        <img src="http://placehold.it/240x360">
 		    </a>
-		    <a class="app_screenshots" href="http://placehold.it/320x480" data-gallery>
+		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
 		        <img src="http://placehold.it/240x360">
 		    </a>
-		    <a class="app_screenshots" href="http://placehold.it/320x480" data-gallery>
+		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
 		        <img src="http://placehold.it/240x360">
 		    </a>
-		    <a class="app_screenshots" href="http://placehold.it/320x480" data-gallery>
+		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
 		        <img src="http://placehold.it/240x360">
 		    </a>		    		    		    		    		    
 		</div>	
@@ -31,7 +31,7 @@
 </div>
 
 	<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
-	<div id="blueimp-gallery" class="blueimp-gallery">
+	<div id="blueimp-gallery" class="blueimp-gallery apps_screen_wrapper">
 	    <!-- The container for the modal slides -->
 	    <div class="slides"></div>
 	    <!-- Controls for the borderless lightbox -->
@@ -42,26 +42,26 @@
 	    <a class="play-pause"></a>
 	    <ol class="indicator"></ol>
 	    <!-- The modal dialog, which will be used to wrap the lightbox content -->
-	    <div class="modal fade">
+	    <div class="modal fade apps_screen_item">
 	        <div class="modal-dialog">
 	            <div class="modal-content">
 	                <div class="modal-header">
 	                    <button type="button" class="close" aria-hidden="true">&times;</button>
 	                    <h4 class="modal-title"></h4>
-	                </div>
-	                <div class="modal-body next">
-	                	
-	                </div>
-	                <div class="modal-footer">
-	                    <button type="button" class="btn btn-default pull-left prev">
+	                <!-- </div> -->
+	                <div class="modal-body ">
+<!-- 	                    <button type="button" class="btn btn-default pull-left prev">
 	                        <i class="glyphicon glyphicon-chevron-left"></i>
 	                        Previous
 	                    </button>
 	                    <button type="button" class="btn btn-primary next">
 	                        Next
 	                        <i class="glyphicon glyphicon-chevron-right"></i>
-	                    </button>
+	                    </button> -->
+	                	
 	                </div>
+	                <!-- <div class="modal-footer"> -->
+	                <!-- </div> -->
 	            </div>
 	        </div>
 	    </div>
