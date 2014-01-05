@@ -3,28 +3,28 @@
 		<!-- <div id="links"> -->
 		<div class="gallery_box">
 		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
-		        <img src="http://placehold.it/240x360">
+		        <img src="http://placehold.it/160x240">
 		    </a>
 		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
-		        <img src="http://placehold.it/240x360">
+		        <img src="http://placehold.it/240x320">
 		    </a>
 		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
-		        <img src="http://placehold.it/240x360">
+		        <img src="http://placehold.it/160x240">
 		    </a>
 		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
-		        <img src="http://placehold.it/240x360">
+		        <img src="http://placehold.it/160x240">
 		    </a>
 		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
-		        <img src="http://placehold.it/240x360">
+		        <img src="http://placehold.it/160x240">
 		    </a>
 		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
-		        <img src="http://placehold.it/240x360">
+		        <img src="http://placehold.it/160x240">
 		    </a>
 		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
-		        <img src="http://placehold.it/240x360">
+		        <img src="http://placehold.it/160x240">
 		    </a>
 		    <a class="app_screenshots img-responsive" href="http://placehold.it/320x480" data-gallery>
-		        <img src="http://placehold.it/240x360">
+		        <img src="http://placehold.it/160x240">
 		    </a>		    		    		    		    		    
 		</div>	
 	</div>	

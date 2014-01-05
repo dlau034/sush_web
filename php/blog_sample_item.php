@@ -17,5 +17,6 @@
 			<a href="#">Read More</a>		
 		</div>
 	</div>	
-	<div class="breakline"></div>
+	<div class="thickline"></div>
+	<!-- <div class="breakline"></div> -->
 </div>	

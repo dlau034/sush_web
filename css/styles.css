@@ -720,7 +720,6 @@ a:hover {
 	}	
 
 }
-
 @media(max-width:400px) { 
 	.apps_detail_bg .apps_detail_icon {
 		float: none;
@@ -745,7 +744,7 @@ a:hover {
 	display: inline-block;
 }
 .gallery_box {
-	height: 360px;	
+	height: 240px;	
 	width: 100%;
 	white-space: nowrap;	
 	overflow-y: hidden;
@@ -781,13 +780,15 @@ a:hover {
 }
 .apps_screen_item .modal_dialog {
 }
-
-@media screen and (min-width: 768px) {
+.app_screenshots img {
+	height: 100%;
+}
+@media (max-width: 768px) {
 	.apps_screen_item .modal-dialog {
-		width: auto;	
+		width: auto;
+		margin: 40px;	
 	}
 }
-
 @media screen and (max-width: 400px) {
 	.apps_screen_item img {
 		width: 100%;
@@ -924,7 +925,7 @@ a:hover {
 .submenu {
 	float: right;
 	margin-top: 3.4em;
-	margin-right: 0.3em;
+	margin-right: 2.8em;
 }
 .submenu h5 {
 	display: inline-block;
@@ -962,7 +963,8 @@ a:hover {
 /* ############################ */
 
 .single_banner {
-	width: 100%;
+	width: 100%;	
+	margin-top: 1.5em;
 }
 @media (max-width: 768px) {
 	.single_banner {
@@ -1004,7 +1006,7 @@ a:hover {
 /* ############################ */
 
 .blog_list_item {
-	margin-bottom: 2em;	
+	margin-bottom: 1.2em;	
 }
 .blog_list_item h2 {
 	/*margin-bottom: 1em;*/
@@ -1054,7 +1056,7 @@ a:hover {
 
 .blog_single_wrap img {
 	width: 100%;
-	margin: 1em 0em;
+	margin: 2em 0em;
 }
 
 .blog_single_wrap h5 {
@@ -1064,7 +1066,7 @@ a:hover {
 	margin-bottom: 0.5em;
 }
 .blog_single_wrap .thickline {
-	/*margin: 2em 0em;*/
+	
 }
 .blog_single_wrap {
 	padding-bottom: 4em;
@@ -1073,12 +1075,23 @@ a:hover {
 .blog_author {
 	margin-bottom: 1em;
 }
+.blog_single_buffer {
+	margin-top: 5.5em;
+}
+.pagination_wrapper {
+	margin: 0 auto;
+	display: block;
+	position: relative;
+}
+.pagination_wrapper .pagination {
+
+}
 
 /* Solutions Subnav */
 /* ############################ */
 
 .solutions_subnav {
-	margin-right: 10em;
+	margin-right: 12.5em;
 }
 
 .solutions_subnav h5 {

@@ -9,7 +9,7 @@
 	<!-- NAVIGATION HEADER -->
 	<?php include 'php/nav_header.php';?>	
 
-	<div class="nav_buffer"></div>	
+	<div class="blog_single_buffer"></div>	
 
 	<div class="blog_single_bg">
 
@@ -47,9 +47,8 @@
 
 	</div>
 	
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.js"></script>	
+			<!-- FOOTER UNIT -->
+	<?php include 'php/footer.php';?>
+	
 </body>
 </html>	

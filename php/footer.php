@@ -92,6 +92,3 @@
 
 	<script type="text/javascript" src="js/bookmarkscroll.js"></script>
 
-	<!-- Custom Javascript -->
-
-    <script src="js/application.js"></script>	

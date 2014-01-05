@@ -26,18 +26,20 @@ v<html>
 					<!-- BLOG SINGLE ITEM -->
 					<?php include 'php/blog_sample_item.php';?>	
 
-					<ul class="pagination">
-					  <li class="disabled"><a href="#">&laquo;</a></li>
-					  <li class="active"><a href="#">1</a></li>
-					  <li><a href="#">2</a></li>
-					  <li><a href="#">3</a></li>
-					  <li><a href="#">4</a></li>
-					  <li><a href="#">5</a></li>
-					  <li><a href="#">6</a></li>
-					  <li><a href="#">7</a></li>					  
-					  <li><a href="#">&raquo;</a></li>
-					</ul>					
-
+					<div class="pagination_wrapper">
+						<ul class="pagination">
+						  <li class="disabled"><a href="#">&laquo;</a></li>
+						  <li class="active"><a href="#">1</a></li>
+						  <li><a href="#">2</a></li>
+						  <li><a href="#">3</a></li>
+						  <li><a href="#">4</a></li>
+						  <li><a href="#">5</a></li>
+						  <li><a href="#">6</a></li>
+						  <li><a href="#">7</a></li>					  
+						  <li><a href="#">&raquo;</a></li>
+						</ul>					
+					</div>
+					
 				</div>
 
 				<!-- Fixed Side Nav for Blog Links -->
@@ -55,9 +57,5 @@ v<html>
 	<!-- ####################### -->			
 	<?php include 'php/footer.php';?>
 
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.js"></script>	
 </body>
 </html>	
