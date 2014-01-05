@@ -171,6 +171,12 @@ a:hover {
 	color: white;
 }
 
+@media (min-width: 768px) {
+	.custom_nav .navbar-nav.navbar-right:last-child {
+		margin-right: 25px;
+	}
+}
+
 
 
 /* HERO BANNER */
@@ -182,7 +188,7 @@ a:hover {
 .hero_banner .item {
 	height: 380px;	
 }
-.hero_banner .item img {
+.hero_banner img {
 	position: absolute;
 	top:0;	
 	width: 100%;
@@ -205,6 +211,15 @@ a:hover {
 .hero_item a {
 	color: white;
 }
+.hero_item .grey_layer {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: 2;
+}
+.hero_text {
+	z-index: 2;
+}
 .hero_banner .carousel-caption {
 	padding-bottom: 130px;
 }
@@ -213,6 +228,7 @@ a:hover {
 }
 .home_carousel .carousel-control {
 	background: none!important;
+	z-index: 3;r
 }
 .arrow_position {
 	position: absolute;
@@ -223,9 +239,13 @@ a:hover {
 
 @media (max-width: 600px) {
 	.hero_banner .item img {
-		right: -19em;
+		-webkit-transform: translate(19em);
+		-moz-transform: translate(19em);
+		-ms-transform: translate(19em);
+		-o-transform: translate(19em);
+		transform: translate(19em);
 	}
-	.hero_banner .item {
+	.hero_banner .grey_layer {
 		background-color: rgba(0,0,0,0.4);
 	}
 	.hero_banner h1 {
@@ -419,7 +439,7 @@ a:hover {
 	position: fixed;
 	width: 2000px;
 	height: 100%;
-	z-index: -1;
+	z-index: -2;
 	background-size: 100%;
 }
 .image_crop {
@@ -743,8 +763,14 @@ a:hover {
 .apps_screen_item .modal-footer {
 	padding: 0;
 }
-.apps_screen_item .modal_content {
+.apps_screen_item .modal-content {
 	border-radius: 0;
+	background: none;
+	border-bottom: none;
+
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
 }
 .apps_screen_item .modal_header .close {
 	margin-top: -8px;
@@ -754,10 +780,18 @@ a:hover {
 	font-size: 45px;
 }
 .apps_screen_item .modal_dialog {
-	background-color: red;
 }
-.apps_screen_item .modal_dialog {
-	width: auto!important;
+
+@media screen and (min-width: 768px) {
+	.apps_screen_item .modal-dialog {
+		width: auto;	
+	}
+}
+
+@media screen and (max-width: 400px) {
+	.apps_screen_item img {
+		width: 100%;
+	}
 }
 
 /* APPS FEATURED LIST UNIT */ 

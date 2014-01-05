@@ -45,9 +45,9 @@
 	    <div class="modal fade apps_screen_item">
 	        <div class="modal-dialog">
 	            <div class="modal-content">
-	                <div class="modal-header">
-	                    <button type="button" class="close" aria-hidden="true">&times;</button>
-	                    <h4 class="modal-title"></h4>
+	                <!-- <div class="modal-header"> -->
+	                    <!-- <button type="button" class="close" aria-hidden="true">&times;</button> -->
+	                    <!-- <h4 class="modal-title"></h4> -->
 	                <!-- </div> -->
 	                <div class="modal-body ">
 <!-- 	                    <button type="button" class="btn btn-default pull-left prev">
@@ -60,9 +60,11 @@
 	                    </button> -->
 	                	
 	                </div>
-	                <!-- <div class="modal-footer"> -->
-	                <!-- </div> -->
 	            </div>
 	        </div>
 	    </div>
 	</div>
+</div>
+</div>
+
+

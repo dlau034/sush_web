@@ -262,8 +262,15 @@
 	</div>	
 
 	<!-- FOOTER UNIT -->
-	<!-- ####################### -->			
+	<!-- ####################### -->
+			
 	<?php include 'php/footer.php';?>
+
+    <script type="text/javascript" src="js/hammer.min.js"></script>
+	
+	<!-- Custom Javascript -->
+
+    <script src="js/application.js"></script>	
 
 </body>
 </html>
