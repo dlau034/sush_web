@@ -11,8 +11,6 @@
 	<!-- NAVIGATION HEADER -->
 	<?php include 'php/nav_header.php';?>
 
-	
-
 	<!-- SINGLE BANNER -->
 	<!-- <div class="nav_buffer"></div>	 -->
 	<?php include 'php/single_banner.php';?>		

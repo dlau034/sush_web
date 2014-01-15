@@ -16,9 +16,10 @@
 			</h5>
 			<div class="breakline"></div>
 
-			<!-- ROW  -->
-			<div class="row">
-				<div class="col-md-3 col-sm-6 col-xs-6">
+			<!-- ROW 1 -->
+
+			<ul class="row">
+				<li class="col-md-3 col-sm-6 col-xs-6">
 					<a href="apps_single.php">
 					<div class="apps_page_item thumbnail">
 						<img class="img-responsive" src="http://placehold.it/300x300">
@@ -28,8 +29,8 @@
         				</div>
 					</div>
 					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-6">
+				</li>
+				<li class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
 						<img class="img-responsive" src="http://placehold.it/300x300">
@@ -39,8 +40,8 @@
         				</div>
 					</div>
 					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-6">
+				</li>
+				<li class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
 						<img class="img-responsive" src="http://placehold.it/300x300">
@@ -50,8 +51,8 @@
         				</div>
 					</div>
 					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-6">
+				</li>
+				<li class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
 						<img class="img-responsive" src="http://placehold.it/300x300">
@@ -61,58 +62,56 @@
         				</div>
 					</div>
 					</a>
-				</div>								
-			</div>
+				</li>								
 
-			<!-- ROW  -->
-			<div class="row">
-				<div class="col-md-3 col-sm-6 col-xs-6">
-					<a href="#">
-					<div class="apps_page_item thumbnail">
-						<img class="img-responsive" src="http://placehold.it/300x300">
-						      <div class="caption">
-        					<h3>HOME HUNTER</h3>
-        					<h4>Kiwibank</h4>
-        				</div>
-					</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-6">
-					<a href="#">
-					<div class="apps_page_item thumbnail">
-						<img class="img-responsive" src="http://placehold.it/300x300">
-						      <div class="caption">
-        					<h3>HOME HUNTER</h3>
-        					<h4>Kiwibank</h4>
-        				</div>
-					</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-6">
-					<a href="#">
-					<div class="apps_page_item thumbnail">
-						<img class="img-responsive" src="http://placehold.it/300x300">
-						      <div class="caption">
-        					<h3>HOME HUNTER</h3>
-        					<h4>Kiwibank</h4>
-        				</div>
-					</div>
-					</a>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-6">
-					<a href="#">
-					<div class="apps_page_item thumbnail">
-						<img class="img-responsive" src="http://placehold.it/300x300">
-						      <div class="caption">
-        					<h3>HOME HUNTER</h3>
-        					<h4>Kiwibank</h4>
-        				</div>
-					</div>
-					</a>
-				</div>								
-			</div>
+			<!-- ROW 2  -->
 
-		<!-- ROW  -->
+				<li class="col-md-3 col-sm-6 col-xs-6">
+					<a href="apps_single.php">
+					<div class="apps_page_item thumbnail">
+						<img class="img-responsive" src="http://placehold.it/300x300">
+						      <div class="caption">
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
+        				</div>
+					</div>
+					</a>
+				</li>
+				<li class="col-md-3 col-sm-6 col-xs-6">
+					<a href="#">
+					<div class="apps_page_item thumbnail">
+						<img class="img-responsive" src="http://placehold.it/300x300">
+						      <div class="caption">
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
+        				</div>
+					</div>
+					</a>
+				</li>
+				<li class="col-md-3 col-sm-6 col-xs-6">
+					<a href="#">
+					<div class="apps_page_item thumbnail">
+						<img class="img-responsive" src="http://placehold.it/300x300">
+						      <div class="caption">
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
+        				</div>
+					</div>
+					</a>
+				</li>
+				<li class="col-md-3 col-sm-6 col-xs-6">
+					<a href="#">
+					<div class="apps_page_item thumbnail">
+						<img class="img-responsive" src="http://placehold.it/300x300">
+						      <div class="caption">
+        					<h3>HOME HUNTER</h3>
+        					<h4>Kiwibank</h4>
+        				</div>
+					</div>
+					</a>
+				</li>								
+			</ul>
+
 				
 		</div>		<!-- Container End  -->		
 	</div>	
