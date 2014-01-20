@@ -751,17 +751,23 @@ a:hover {
 	overflow-y: hidden;
 	overflow-x: auto;
 }
-.apps_screen_wrapper {
-
+.apps_screen_wrapper .close {
+	color: white;
+	text-shadow: none;
 }
 .apps_screen_item .modal-body {
 	padding: 0;
+	z-index: -1;
 }
 .apps_screen_item .modal-header {
 	border-bottom: none;
 }
 .apps_screen_item .modal-footer {
 	padding: 0;
+	text-align: none;
+	border: none;
+	margin-top: 25px;
+	text-align: start;
 }
 .apps_screen_item .modal-content {
 	border-radius: 0;
@@ -774,10 +780,18 @@ a:hover {
 }
 .apps_screen_item .modal_header .close {
 	margin-top: -8px;
-
-} 
+}
+.apps_screen_item .modal-footer .btn-primary { 
+	margin-left: 30px;
+}	
 .apps_screen_item .close {
 	font-size: 45px;
+}
+.apps_screen_item .group_controls {
+	display: block;
+	position: relative;
+	margin: 0 auto;
+	width: 215px;
 }
 .apps_screen_item .modal_dialog {
 }
@@ -931,7 +945,7 @@ a:hover {
 .submenu h5 {
 	display: inline-block;
 	margin-left: 1.5em;
-	font-size: 0.9em
+	font-size: 0.8em
 }
 @media (max-width: 768px) {
 	.submenu h5 {		
@@ -1101,13 +1115,13 @@ a:hover {
 /* ############################ */
 
 .solutions_subnav {
-	margin-right: 12.5em;
+	margin-right: 7.5em;
 }
 
 .solutions_subnav h5 {
 	display: inline-block;
 	margin-left: 1.5em;
-	font-size: 0.9em
+	font-size: 0.8em
 }
 @media (max-width: 768px) {
 	.solutions_subnav h5 {		

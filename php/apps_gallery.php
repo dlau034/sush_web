@@ -46,19 +46,24 @@
 	        <div class="modal-dialog">
 	            <div class="modal-content">
 	                <!-- <div class="modal-header"> -->
-	                    <!-- <button type="button" class="close" aria-hidden="true">&times;</button> -->
+	                    
 	                    <!-- <h4 class="modal-title"></h4> -->
 	                <!-- </div> -->
+	                	<div class="close_controls">
+		                	<button type="button" class="close" aria-hidden="true">&times;</button>
+		                 
+	                	</div>		                
 	                <div class="modal-body ">
-<!-- 	                    <button type="button" class="btn btn-default pull-left prev">
-	                        <i class="glyphicon glyphicon-chevron-left"></i>
-	                        Previous
-	                    </button>
-	                    <button type="button" class="btn btn-primary next">
-	                        Next
-	                        <i class="glyphicon glyphicon-chevron-right"></i>
-	                    </button> -->
-	                	
+	                </div>
+	                <div class="modal-footer">
+						<div class="group_controls">
+							<button type="button" class="btn btn-primary btn-lg prev">
+		                        <i class="glyphicon glyphicon-chevron-left"></i>	                        
+		                    </button>
+		                    <button type="button" class="btn btn-primary btn-lg next">	                        
+		                        <i class="glyphicon glyphicon-chevron-right"></i>
+		                    </button>	            
+		                </div>    	
 	                </div>
 	            </div>
 	        </div>
