@@ -99,7 +99,7 @@
 					</div>
 					</a>
 				</li>
-				<li class="col-md-3 col-sm-6 col-xs-6">ter
+				<li class="col-md-3 col-sm-6 col-xs-6">
 					<a href="#">
 					<div class="apps_page_item thumbnail">
 						<img class="img-responsive" src="http://placehold.it/300x300">

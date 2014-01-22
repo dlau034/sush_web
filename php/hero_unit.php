@@ -15,7 +15,7 @@
       <img src="img/banner_350px.jpg" alt="banner_1">      
       <div class="grey_layer"></div>
         <div class="container">
-          <a class="col-xs-12 col-sm-8 col-md-8 hero_text" href="#"><h1>HOME HUNTER</h1>
+          <a class="col-xs-12 col-sm-8 col-md-8 hero_text" href="#"><span>HOME HUNTER</span>
           <h2>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
           </h2>
@@ -25,10 +25,10 @@
 
   
     <div class="item hero_item">      
-      <img src="img/banner_350px.jpg" alt="banner_2">      
+      <img src="img/banner_nzherald.jpg" alt="banner_2">      
       <div class="grey_layer"></div>
         <div class="container">
-          <a class="col-xs-12 col-sm-8 col-md-8 hero_text" href="#"><h1>HOME HUNTER 2</h1>
+          <a class="col-xs-12 col-sm-8 col-md-8 hero_text" href="#"><span>NEW ZEALAND HERALD</span>
           <h2>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
           </h2>
@@ -40,7 +40,7 @@
       <img src="img/banner_350px.jpg" alt="banner_2">      
       <div class="grey_layer"></div>
         <div class="container">
-          <a class="col-xs-12 col-sm-8 col-md-8 hero_text" href="#"><h1>HOME HUNTER HOME HUNTER 3</h1>
+          <a class="col-xs-12 col-sm-8 col-md-8 hero_text" href="#"><span>HOME HUNTER HOME HUNTER 3</span>
           <h2>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
           </h2>

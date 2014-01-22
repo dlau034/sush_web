@@ -197,18 +197,27 @@ a:hover {
 	display: block;
 }
 .hero_banner h1 {
-	float: left;
-	clear: both;
+
+}
+.hero_banner span {
+	background-color: rgba(0,0,0,0.6);
+	line-height: 1.25em;
+	/*float: left;*/
+	/*clear: both;*/
 	color: white;
 	font-weight: 700;
 	font-family: 'PT Sans Narrow', sans-serif;
 	font-size: 6em;
-}
+}	
 .hero_banner h2 {
 	float: left;
 	clear: both;		
+	background-color: #026FB2;
+	padding: 6px 12px;
+	margin-top: 10px;
 }
 .hero_item a {
+	margin-top: 1em;
 	color: white;
 }
 .hero_item .grey_layer {
@@ -289,8 +298,6 @@ a:hover {
 	}
 }
 
-
-
 /* PLATFORM UNIT */
 /* ############################ */
 
@@ -305,6 +312,11 @@ a:hover {
 .platform_unit img {
 	width: 130px;
 	margin-bottom: 2em;
+	/*background-color: #75CFF2;*/
+	background-color: #026FB2;
+}
+.platform_unit img:hover {
+	background-color: #75CFF2;
 }
 .platform_bg {
 	background-color: white;
@@ -848,6 +860,9 @@ a:hover {
 .apps_right_bg {	
 	padding: 3em 0em;
 	background-color: #f1f1f1;
+}
+.apps_right_bg .float_right {
+	float: right;
 }
 .apps_right_bg p {
 	margin-top: 1em;
